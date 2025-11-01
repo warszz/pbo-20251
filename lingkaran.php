@@ -25,3 +25,15 @@ class LuasLingkaran {
         echo "udah ah cape";
     }
 }
+}
+
+$lingkaran = new LuasLingkaran(12);
+
+$lingkaran->tampil('roda');
+}
+
+$lingkaran = new LuasLingkaran();
+$lingkaran->jari = 12;
+$lingkaran->tampil('roda'); 
+
+LuasLingkaran::testing(); 
