@@ -27,6 +27,6 @@ class LuasLingkaran {
 
 $lingkaran = new LuasLingkaran(12);
 
-$lingkaran->tampil('roda'); 
+$lingkaran->tampil('roda');
 
 LuasLingkaran::testing(); 
